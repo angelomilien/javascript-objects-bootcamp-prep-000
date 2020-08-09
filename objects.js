@@ -1,4 +1,5 @@
 var playlist = {
-  celine : "suffisait";
-  garou : "je l aime"
+   celine : "suffisait"
+   garou : "je l aime"
+  
 }
